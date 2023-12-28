@@ -1,0 +1,12 @@
+.Con{
+  border: solid black 2px;
+  max-width: 350px;
+  margin: 5px;
+  padding: 5px;
+}
+
+input{
+  width: 100%;
+  margin: 5px 0px;
+
+}
